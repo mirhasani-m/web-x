@@ -1,0 +1,43 @@
+
+nav.navbar-fixed {
+    background-color: #232222;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    position: fixed;
+    width: 100%;
+    color: white;
+}
+.header
+ {
+    background-image: url(images/header.jpg);
+    height: 900px;
+
+}
+.logo-maria{
+font-weight: 600;
+float:left;
+}
+a {
+    color: white;
+    text-decoration: none;
+}
+.menu-navbar {
+    float: right;
+    
+}
+ul {
+    margin: 0;
+}
+.menu-navbar ul li {
+    display: inline-block;
+    padding-left: 15px;
+}
+.container {
+        width: 1200px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
